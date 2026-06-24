@@ -62,8 +62,7 @@ NACA0012-CFD-Validation/
 │   └── solver_setup.md          Complete Fluent settings
 ├── validation/                  Comparison analysis
 │   └── comparison_analysis.md   CFD vs experimental
-└── images/                      Plots and contours (add manually)
-```
+└── images/                      Plots and contours 
 
 ## How to Reproduce
 
